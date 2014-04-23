@@ -1,6 +1,6 @@
 ############################################################
-# Dockerfile to build MongoDB container images
-# Based on Ubuntu
+# Dockerfile to build Apache container for running PHP applications
+# Base image : Ubuntu
 ############################################################
 
 # Set the base image to Ubuntu
